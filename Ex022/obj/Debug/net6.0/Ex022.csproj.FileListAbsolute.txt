@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\bin\Debug\net6.0\Ex022.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\bin\Debug\net6.0\Ex022.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\bin\Debug\net6.0\Ex022.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\bin\Debug\net6.0\Ex022.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\bin\Debug\net6.0\Ex022.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\refint\Ex022.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\Ex022.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\Ex022\obj\Debug\net6.0\ref\Ex022.dll
