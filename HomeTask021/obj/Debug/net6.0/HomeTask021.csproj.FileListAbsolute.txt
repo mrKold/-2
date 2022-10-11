@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\bin\Debug\net6.0\HomeTask021.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\bin\Debug\net6.0\HomeTask021.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\bin\Debug\net6.0\HomeTask021.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\bin\Debug\net6.0\HomeTask021.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\bin\Debug\net6.0\HomeTask021.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\refint\HomeTask021.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\HomeTask021.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Массивы и функции в программировании 2\HomeTask021\obj\Debug\net6.0\ref\HomeTask021.dll
